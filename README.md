@@ -2,6 +2,8 @@
 
 How to start:
 
+clone repo
+
 make run ```npm i```
 
 For run tests:
