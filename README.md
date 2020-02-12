@@ -1,4 +1,4 @@
-# test_exercise project as testing task
+# mamba main page test project as testing task
 
 How to start:
 
